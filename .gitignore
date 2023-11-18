@@ -1,0 +1,7 @@
+.env
+letsencrypt/
+data/
+originals/
+import/
+storage/
+.DS_Store
